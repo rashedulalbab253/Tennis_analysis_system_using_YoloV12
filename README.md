@@ -1,4 +1,4 @@
-# Tennis Analysis Analysis
+# Tennis Analysis System
 
 ## Motivation
 Automated tennis analysis is challenging due to fast ball motion,
@@ -58,6 +58,7 @@ Here is a screenshot from one of the output videos:
 * pytroch
 * numpy 
 * opencv
+
 
 
 
