@@ -1,4 +1,4 @@
-# Tennis Analysis
+# Tennis Analysis Analysis
 
 ## Motivation
 Automated tennis analysis is challenging due to fast ball motion,
@@ -30,8 +30,8 @@ Here is a screenshot from one of the output videos:
 * Fine-Tuned YOLOv5 for tennis ball detection
 * Fine-Tuned ResNet-50 to detect tennis court keypoints
 
-* Trained YOLOV5 model for Tennis Ball Detection: https://drive.google.com/file/d/1YGcN5Nmqsg0j0LN1p-I0dcH1ZCXNa2cs/view?usp=sharing
-* Trained tennis court key point detection model: https://drive.google.com/file/d/107F8wEAQa3jhzDKADDmqMry00mLfQ2rt/view?usp=sharing
+* Trained YOLOV5 model for Tennis Ball Detection.
+* Trained tennis court key point detection model.
 
 ## Model Selection Rationale
 - YOLOv12 was chosen for player detection due to its superior
@@ -58,5 +58,6 @@ Here is a screenshot from one of the output videos:
 * pytroch
 * numpy 
 * opencv
+
 
 
